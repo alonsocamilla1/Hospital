@@ -1,4 +1,4 @@
-package br.gama.itau.hospital;
+package br.gama.itau.hospital.DTO;
 
 import br.gama.itau.hospital.Model.Paciente;
 import lombok.Getter;
